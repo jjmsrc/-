@@ -1,0 +1,8 @@
+{
+  "name": "사내 용어·약어 사전",
+  "description": "구글 스프레드시트를 연동하여 사내 용어 및 약어를 쉽게 등록하고 검색하며 퀴즈로 학습할 수 있는 Wiki형 개방형 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
